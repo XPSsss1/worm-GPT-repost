@@ -3,6 +3,16 @@ welcome to worm GPT repost, this is a remade version of the malicous tool WORM-G
 this tool promotes other repo's.
 
 please use this tool ethicaly and not for illegal use.
+
+# install
+```bash
+Download ZIP
+create a new folder
+put python file in new folder
+run cmd in folder
+have fun.
+
+
 ```bash
 Features
 1. website attacking
